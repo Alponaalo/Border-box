@@ -1,0 +1,34 @@
+
+   
+   
+   
+ form{
+
+        padding: 2px;
+        background-color:thistle;
+        width: 400px;
+        border-radius: 20px;
+
+       } 
+    
+}
+input.riya{
+border: none;
+}
+input.rahul{
+    margin: 50px 0px;
+    border: darkorange;
+    background-color: darkorchid;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.background-image{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(../image/main\ image.jpg);
+    width: 200vh;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
